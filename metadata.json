@@ -1,0 +1,8 @@
+{
+  "name": "FlipaTulga Go!",
+  "description": "An adrenaline-fueled, hand-drawn endless runner where you sprint, scream, slide, and leap through chaotic doodle worlds at breakneck speeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
